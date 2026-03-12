@@ -10,7 +10,7 @@
 - https://cursos.alura.com.br/certificate/c385cdde-03bd-452c-93d8-ec2d828d517c?lang=pt_BR
 - https://cursos.alura.com.br/certificate/32baeb2b-e4d3-4070-b76f-9481de8f31ea?lang=pt_BR
 
-## ![Lógica](https://img.shields.io/badge/Lógica-pink?style=for-the-badge&logo=HTMLeCSS&logoColor=white)
+## ![Lógica](https://img.shields.io/badge/Lógica-purple?style=for-the-badge&logo=HTMLeCSS&logoColor=white)
 - https://cursos.alura.com.br/certificate/c385cdde-03bd-452c-93d8-ec2d828d517c?lang=pt_BR
 - https://cursos.alura.com.br/certificate/32baeb2b-e4d3-4070-b76f-9481de8f31ea?lang=pt_BR
 - https://cursos.alura.com.br/certificate/b211ff7f-9800-4880-8d33-2f67c63a23fe?lang=pt_BR
@@ -21,4 +21,7 @@
 - https://cursos.alura.com.br/certificate/7b8da533-c642-42e0-871a-4e8d1bca0288?lang=pt_BR
 
 <!-- ## ![Python](https://img.shields.io/badge/Lógica-blue?style=for-the-badge&logo=HTMLeCSS&logoColor=white) -->
+
+## ![languages](https://img.shields.io/badge/languages-gray?style=for-the-badge&logo=HTMLeCSS&logoColor=white)
+- https://app.voxy.com/certificates/proficiency-test/6966930336ac014428d3c30c
   
