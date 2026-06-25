@@ -20,7 +20,8 @@
 - https://cursos.alura.com.br/certificate/3a82f399-0065-4887-a345-b26c84968895?lang=pt_BR
 - https://cursos.alura.com.br/certificate/7b8da533-c642-42e0-871a-4e8d1bca0288?lang=pt_BR
 
-<!-- ## ![Python](https://img.shields.io/badge/Lógica-blue?style=for-the-badge&logo=HTMLeCSS&logoColor=white) -->
+## ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=HTMLeCSS&logoColor=white)
+- https://hermes.dio.me/certificates/TQS1EVNZ.pdf
 
 ## ![languages](https://img.shields.io/badge/languages-gray?style=for-the-badge&logo=HTMLeCSS&logoColor=white)
 - https://app.voxy.com/certificates/proficiency-test/6966930336ac014428d3c30c
